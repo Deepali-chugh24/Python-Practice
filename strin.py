@@ -17,9 +17,6 @@
 #     else:
 #         a=input("Enter a number")
 
-
-
-
 a=input("Enter a number: ")
 
 while a:
